@@ -157,7 +157,7 @@ Publish the website in the given URL.
                 &copy; Copyright <strong><span>BPRD</span></strong>. All Rights Reserved
               </div>
               <div class="credits">
-                Designed by <a href="https://bootstrapmade.com/">javith farkhan</a>
+                Designed by <a href="https://bootstrapmade.com/">kiran</a>
               </div>
             </div>
           </footer><!-- End Footer -->
@@ -375,7 +375,7 @@ Publish the website in the given URL.
         &copy; Copyright <strong><span>BPRD</span></strong>. All Rights Reserved
       </div>
       <div class="credits">
-        Designed by <a href="https://bootstrapmade.com/">javith farkhan</a>
+        Designed by <a href="https://bootstrapmade.com/">kiran</a>
       </div>
     </div>
   </footer><!-- End Footer -->
@@ -493,7 +493,7 @@ Publish the website in the given URL.
                 &copy; Copyright <strong><span>BPRD</span></strong>. All Rights Reserved
               </div>
               <div class="credits">
-                Designed by <a href="https://bootstrapmade.com/">javith farkhan</a>
+                Designed by <a href="https://bootstrapmade.com/">kiran</a>
               </div>
             </div>
           </footer><!-- End Footer -->
